@@ -31,3 +31,8 @@ It's return's.
 ```python
 {'5 * 2': 10, '4 / 2': 2.0, '2 * 2': 4, 'sin(1)': 0.8414709848078965}
 ```
+
+Get version of lang.
+```
+mathlang --version
+```
