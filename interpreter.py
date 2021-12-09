@@ -123,4 +123,3 @@ class Interpreter:
                 throwexc(MathLangUnknownError, str(exc))
 
             return results
-x
