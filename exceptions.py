@@ -18,7 +18,6 @@ class MathLangSyntaxError(MathLangException):
 class MathLangZeroDivisionError(MathLangException):
     ...
 
-
 class MathLangOverflowError(MathLangException):
     ...
 
